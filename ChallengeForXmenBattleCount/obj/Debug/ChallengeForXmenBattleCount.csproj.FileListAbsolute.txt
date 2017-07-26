@@ -1,0 +1,6 @@
+C:\Users\Reis\Documents\The Tech Academy\C# Course\Lesson 6 - Arrays\Xmen Challenge\Tech-Academy-Xmen-Challenge-C-Sharp\ChallengeForXmenBattleCount\bin\ChallengeForXmenBattleCount.dll.config
+C:\Users\Reis\Documents\The Tech Academy\C# Course\Lesson 6 - Arrays\Xmen Challenge\Tech-Academy-Xmen-Challenge-C-Sharp\ChallengeForXmenBattleCount\bin\ChallengeForXmenBattleCount.dll
+C:\Users\Reis\Documents\The Tech Academy\C# Course\Lesson 6 - Arrays\Xmen Challenge\Tech-Academy-Xmen-Challenge-C-Sharp\ChallengeForXmenBattleCount\bin\ChallengeForXmenBattleCount.pdb
+C:\Users\Reis\Documents\The Tech Academy\C# Course\Lesson 6 - Arrays\Xmen Challenge\Tech-Academy-Xmen-Challenge-C-Sharp\ChallengeForXmenBattleCount\obj\Debug\ChallengeForXmenBattleCount.csprojResolveAssemblyReference.cache
+C:\Users\Reis\Documents\The Tech Academy\C# Course\Lesson 6 - Arrays\Xmen Challenge\Tech-Academy-Xmen-Challenge-C-Sharp\ChallengeForXmenBattleCount\obj\Debug\ChallengeForXmenBattleCount.dll
+C:\Users\Reis\Documents\The Tech Academy\C# Course\Lesson 6 - Arrays\Xmen Challenge\Tech-Academy-Xmen-Challenge-C-Sharp\ChallengeForXmenBattleCount\obj\Debug\ChallengeForXmenBattleCount.pdb

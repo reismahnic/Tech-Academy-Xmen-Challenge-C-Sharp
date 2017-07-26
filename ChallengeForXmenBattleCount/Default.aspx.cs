@@ -20,11 +20,28 @@ namespace ChallengeForXmenBattleCount
             string result = "";
 
 
-            // Your Code Here!
+            int mostBattles = 0;
+            int leastBattles = 0;
+            //Determine most and least battles
+            for (int i = 0; i < names.Length; i++)
+            {
+                //is this the most battles so far?
+                if (numbers[i] > numbers[mostBattles])
+                {
+                    mostBattles = i;
+                }
 
+                if (numbers[i] < numbers[leastBattles])
+                {
+                    leastBattles = i;
+                }
+                //is this the least battles so far?
 
+            }
 
-            resultLabel.Text = result;
+            //Output results
+            resultLabel.Text = "Most battles belongs to: " + names[mostBattles] + " (Value: " + numbers[mostBattles] + ").<br >" +
+            "Least battles belongs to: " + names[leastBattles] + " (Value: " + numbers[leastBattles] + ").";
         }
     }
 }
